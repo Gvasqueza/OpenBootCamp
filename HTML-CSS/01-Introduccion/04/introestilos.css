@@ -1,0 +1,29 @@
+.colores{
+    color: orangered;
+}
+
+.colorhexa{
+    color: #BCE784;
+}
+
+.colorrgb{
+    color: rgb(71, 34, 204);
+}
+
+.colorrgba{
+    color: rgba(168, 26, 26, 0.904);
+}
+
+/* FONDOS*/
+
+.fondo{
+    /*background-color: cornflowerblue;*/
+    background-image: url("https://unbounce.com/photos/Gradient-Background.png");
+    background-position: center center;
+}
+
+.fondointerno{
+    /*background-color: cornflowerblue;*/
+    background-image: url("imagenes/fondo.jpg");
+    background-position: center center;
+}
