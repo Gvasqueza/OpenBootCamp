@@ -1,13 +1,13 @@
-#h1-id {
+#h1-id { /*selector de especificidad 1,0,0*/
     color: darksalmon;
 }
 
-.h1-clase {
+.h1-clase { /*selector de especificidad 0,1,0*/
     color: yellow;
 }
 
 
-h1 {
+h1 { /*selector de especificidad 0,0,1*/
     color: blue;
 }
 
