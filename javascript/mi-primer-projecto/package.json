@@ -1,12 +1,17 @@
 {
-  "name": "01_intro",
+  "name": "hola-mundo",
   "version": "1.0.0",
-  "description": "Primer ejercicio del Open BootCamp",
+  "description": "Este es mi primer projecto de Javascript con node en Open Bootcamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "saludar": "node hola_mundo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
   "author": "Giancarlo Vasquez",
   "license": "ISC"
 }

@@ -1,0 +1,8 @@
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\obj\Debug\Hola Mundo.csproj.AssemblyReference.cache
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\obj\Debug\Hola Mundo.csproj.SuggestedBindingRedirects.cache
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\obj\Debug\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\OpenBootCamp\Csharp\01-Intro\Hola Mundo\obj\Debug\Hola Mundo.pdb
